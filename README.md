@@ -1,4 +1,4 @@
-![https://retosdeprogramacion.com](./images/header.jpg)
+![https://retosdeprogramacion.com](./images/header-roadmap-retos-de-programacion.png)
 
 # Roadmap retos de programación semanales 2024
 
@@ -16,3 +16,11 @@
 | 07  | [PILAS Y COLAS](./Roadmap/07%20-%20PILAS%20Y%20COLAS/ejercicio.md)                                                                                 | [📝](./Roadmap/07%20-%20PILAS%20Y%20COLAS/python/mouredev.py)                                              | [▶️](https://youtu.be/cBeRWS2X0CA) | [👥](./Roadmap/07%20-%20PILAS%20Y%20COLAS/)                                              |
 | 08  | [CLASES](./Roadmap/08%20-%20CLASES/ejercicio.md)                                                                                                   | [📝](./Roadmap/08%20-%20CLASES/python/mouredev.py)                                                         | [▶️](https://youtu.be/W4tv8WUbum4) | [👥](./Roadmap/08%20-%20CLASES/)                                                         |
 | 09  | [HERENCIA](./Roadmap/09%20-%20HERENCIA/ejercicio.md)                                                                                               | [🗓️ 04/03/24](https://discord.gg/mouredev?event=1211576792909873152)                                       |                                    | [👥](./Roadmap/09%20-%20HERENCIA/)                                                       |
+
+![https://retosdeprogramacion.com](./images/header-ejercicios-de-programacion.png)
+
+## Ejercicios lógicos
+
+| #   | Ejercicio                                                                                                               | Solución                                                                                                   | Vídeo                              | Comunidad                                                                                |
+| --- | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------- | ---------------------------------------------------------------------------------------- |
+| 01  | [EL FAMOSO "FIZZ BUZZ"](./Roadmap/00%20-%20SINTAXIS,%20VARIABLES,%20TIPOS%20DE%20DATOS%20Y%20HOLA%20MUNDO/ejercicio.md) | [📝](./Roadmap/00%20-%20SINTAXIS,%20VARIABLES,%20TIPOS%20DE%20DATOS%20Y%20HOLA%20MUNDO/python/mouredev.py) | [▶️](https://youtu.be/gEIBJ7rmLa0) | [👥](./Roadmap/00%20-%20SINTAXIS,%20VARIABLES,%20TIPOS%20DE%20DATOS%20Y%20HOLA%20MUNDO/) |
