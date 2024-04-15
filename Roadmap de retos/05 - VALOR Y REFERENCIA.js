@@ -32,6 +32,7 @@ console.log(d); // [4, 2, 3]
 function porValor(x) {
   x = 20;
 }
+
 let y = 10;
 porValor(y);
 console.log(y); // 10
